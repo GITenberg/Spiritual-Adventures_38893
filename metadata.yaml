@@ -1,0 +1,33 @@
+_repo: Spiritual-Adventures_38893
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Symons, Arthur
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '347'
+    url: http://www.gutenberg.org/2009/agents/347
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Symons
+description: A prelude to life. - Esther Kahn. - Christian Trevalga. - The childhood
+  of Lucy Newcome. - The death of Peter Waydelin. - An autumn city. - Seaward Lackland.
+  - Extracts from the journal of Henry Luxulyan.
+gutenberg_issued: '2012-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38893'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: A prelude to life -- Esther Kahn -- Christian Trevalga -- The childhood
+  of Lucy Newcome -- The death of Peter Waydelin -- An autumn city -- Seaward Lackland
+  -- Extracts from the journal of Henry Luxulyan.
+title: Spiritual Adventures
+url: http://www.gutenberg.org/ebooks/38893
